@@ -8,7 +8,7 @@ I'm Mario Kreticoski Junyor.
   <a href="https://github.com/MarioKreticoskiJunyor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioKreticoskiJunyor"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioKreticoskiJunyor&exclude_repo=https://github.com/MarioKreticoskiJunyor/PowerBits&layout=compact&langs_count=7&theme=radical"/>
- # </a>
+  </a>
 </div>
   
 ## <kbd><img height="25em" src="https://github.com/bsbontorin/bsbontorin/blob/main/core.webp"></kbd> Technologies
