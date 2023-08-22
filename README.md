@@ -1,9 +1,8 @@
-### **Hi guys**
+# Hi there, I'm Mario Kreticoski Junyor! 👋
 
-I'm Mario Kreticoski Junyor.
+Welcome to my GitHub profile. Feel free to explore my repositories and projects.
 
-#Have a very nice day.
-
+🌱 Currently focusing on improving my coding skills and learning new technologies.
 <div>
   <a href="https://github.com/MarioKreticoskiJunyor">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioKreticoskiJunyor"/>
