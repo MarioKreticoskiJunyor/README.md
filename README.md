@@ -5,7 +5,7 @@ I'm Mario Kreticoski Junyor.
 #Have a very nice day.
 
 #<div>
-  #<a href="https://github.com/bsbontorin">
+  #<a href="https://github.com/MarioKreticoskiJunyor">
   #<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsbontorin&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  # <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?#username=bsbontorin&exclude_repo=https://github.com/bsbontorin/PowerBits&layout=compact&langs_count=7&theme=radical"/>
  # </a>
