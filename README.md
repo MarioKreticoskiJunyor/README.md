@@ -9,8 +9,8 @@ Welcome to my GitHub profile. Feel free to explore my repositories and projects.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioKreticoskiJunyor&exclude_repo=https://github.com/MarioKreticoskiJunyor/PowerBits&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
-<kbd><img height="25em" src="https://github.com/MarioKreticoskiJunyor/MarioKreticoskiJunyor/blob/main/core.webp"></kbd>
-## Technologies and Tools 🚀
+
+# Technologies and Tools 🚀
 
 Here are some of the technologies and tools I work with:
 
