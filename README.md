@@ -7,7 +7,7 @@ Welcome to my GitHub profile. Feel free to explore my repositories and projects.
   <a href="https://github.com/MarioKreticoskiJunyor">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioKreticoskiJunyor&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioKreticoskiJunyor&exclude_repo=https://github.com/MarioKreticoskiJunyor/PowerBits&layout=compact&langs_count=7&theme=github_dark"/>
-    <img align="center" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=MarioKreticoskiJunyor&amp;repo=github-readme-stats&amp;theme=buefy" style="max-width: 100%;">
+    <img align="center" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=MarioKreticoskiJunyor&amp;repo=CursoPython&amp;theme=buefy" style="max-width: 100%;">
   </a>
 </div>
 
